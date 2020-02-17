@@ -6,7 +6,7 @@
      nginx.ingress.kubernetes.io/rewrite-target: /
  spec:
    rules:
-   - host: backend.patrocinio-iks-fa9ee67c9ab6a7791435450358e564cc-0000.us-east.containers.appdomain.cloud
+   - host: backend.multicloud12-8a2d3071712c7c965e5501bbbe7f8585-0001.eu-de.containers.appdomain.cloud
      http:
        paths:
        - path: /
